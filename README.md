@@ -381,8 +381,9 @@ The raw probe results for each scenario are stored in `results/`.
 
 ## 15. Team
 
-| Name | Roll number | 
-|---|---|---|
-|Aneesh Maiti| PES2UG25CS068 |
+| Name | SRN |
+|---|---|
+| Aneesh Maiti | PES2UG25CS068 |
 
-Course: BTECH · Institution: PES ECC
+**Course:** B.Tech  
+**Institution:** PES ECC
